@@ -1,3 +1,9 @@
+This is a fork repo! The original repo:  https://github.com/CG8516/PvZA11y
+
+AudioGames.net Topic:  https://forum.audiogames.net/topic/50364/pvz-a11y-an-accessibility-mod-for-plants-vs-zombies/
+
+---------------------
+
 PvZ a11y Beta 1.
 
 This program requires the microsoft dotnet 8.0 runtime to be installed on your system.
